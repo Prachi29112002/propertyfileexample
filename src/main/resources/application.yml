@@ -1,0 +1,9 @@
+messageFunctions:
+  mappings:
+    - messageFunction: FINF
+      methods: method1, method2
+
+    - messageFunction: FIAQ
+      methods: method2
+
+
